@@ -9,5 +9,7 @@
         <page name='Quitar y reemplazar espacios String'/>
         <page name='Fechas'/>
         <page name='Letra repite en un string'/>
+        <page name='Anagrama'/>
+        <page name='FizzBuzz'/>
     </pages>
 </playground>
